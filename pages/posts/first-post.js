@@ -5,7 +5,7 @@ export default function FirstPost() {
         <>
             <h1>Fist Post</h1>
             <h2>
-                <Link href='/'>Back to home</Link>
+                <Link href='/'>Go back to home</Link>
             </h2>
         </>
     );
