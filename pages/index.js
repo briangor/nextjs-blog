@@ -26,10 +26,6 @@ export default function Home({ allPostsData }) {
           (English/Japanese). You can contact me on Twitter.
         </p>
         <p>
-          (This is a sample website - you&#39;ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
-        <p>
           <Link href='/posts/first-post'>First Post</Link>
         </p>
       </section>
