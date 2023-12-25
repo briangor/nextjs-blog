@@ -4,6 +4,7 @@ Run the development server:
 npm run dev
 ```
 
+
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
 
