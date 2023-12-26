@@ -26,4 +26,6 @@ img {
   display: block;
 }
 
-imgs {}
+imgs {
+  object-fit: cover;
+}
