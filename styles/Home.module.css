@@ -105,7 +105,8 @@
 
 .logo {
   height: 1em;
-  margin-left: 0.5rem;
+  margin-left: 0.50rem;
+  
 }
 
 @media (max-width: 600px) {
