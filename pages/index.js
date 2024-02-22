@@ -11,7 +11,6 @@ export async function getStaticProps() {
       allPostsData,
     },
   };
-  //console.log('Fetched Blogs')
 }
 
 export default function Home({ allPostsData }) {
